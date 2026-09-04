@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gm012.github.io/gm012-Halden-preview/sitemap.xml
+Sitemap: https://gm012.github.io/gm012-Halden -preview/sitemap.xml
